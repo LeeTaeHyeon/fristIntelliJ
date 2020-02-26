@@ -1,4 +1,4 @@
-#Github README.md 팁
+# Github README.md 팁
 
 1. 다음줄로 넘기기는 엔터 두번 or 스페이스바 두번
 
@@ -34,7 +34,7 @@
 
 4.	ctrl + K : commit  
 	ctrl + shift + K : push  
-	ctrl + Y // action에서 pull : pull  
+	action에서 pull : pull  
 
 5.	shift + f10 : run  
 	ctrl + f2 : stop
