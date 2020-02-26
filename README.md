@@ -5,16 +5,15 @@ Github README.md 팁
 
 1. "#"을 이용해 글자크기 구별
 
-  ex) # 한개
-      #### 네개
+   # 한개
+   #### 네개
       
       
 2. 강조하고싶으면 "**"로 감싸기
-  ex) **강조**
+   **강조**
 
 
 3. 코드 넣기는 "``` 코드 ```" 로 감싸기
-  ex)
   ```
   public class Main {
     public static void main(String[] args) {
