@@ -1,4 +1,4 @@
-package java.com.jojoldu.book.sringboot.web;
+package com.jojoldu.book.sringboot.web;
 
 import com.jojoldu.book.sringboot.web.HelloController;
 import org.junit.Test;
@@ -21,12 +21,12 @@ public class HelloControllerTest {
     private MockMvc mvc;
 
     @Test
-    public void hello가_리턴된다() throws Exception {
+    public void helloReturn() throws Exception {
         String hello = "hello";
 
         mvc.perform(get("/hello"))
                 .andExpect(status().isOk())
-                .andExpect((content().string(hello)));
+                .andExpect(content().string(hello));
 
     }
 }

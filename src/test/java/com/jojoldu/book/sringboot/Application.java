@@ -1,4 +1,4 @@
-package java.com.jojoldu.book.sringboot;
+package com.jojoldu.book.sringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
